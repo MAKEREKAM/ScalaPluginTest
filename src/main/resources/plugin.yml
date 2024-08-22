@@ -1,0 +1,7 @@
+name: ScalaPluginTest
+version: 1.0 # 수정 가능
+main: kr.vanilage.main.Main
+api-version: '1.21' # 수정 가능
+
+libraries:
+  - org.scala-lang:scala3-library_3:3.4.2
